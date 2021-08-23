@@ -8,6 +8,7 @@ The basic Hello World example. This is to just get familiar with the language to
 
 Create a very simple program to output "Hello World!"
 
-## Expected Input/Output
+## Example Input/Ouput
 
-Output should look the same as [output.txt](output.txt).
+~~[input.txt](input.txt)~~  
+[output.txt](output.txt)
