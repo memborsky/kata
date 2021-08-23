@@ -4,4 +4,4 @@ This repository contains program Kata's that can be used for learning a new lang
 
 ### Structure
 
-The repository is broken down using a suggest path of completion using the first 3 digits as the ordering. This is not the path that you must take, it is merely a suggestion for if you are learning a new language.
+The repository is broken down using the first 3 digits as a suggested path for completing each Kata in order. This is not the path that you must take, it is merely a suggestion for learning.
