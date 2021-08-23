@@ -10,10 +10,5 @@ Write a program that reads incomes and prints the taxes due. The program should 
 
 ## Example Input/Ouput
 
-> What is your income? **10000**  
-> Income = 10000 pixel dust  
-> Tax = 3200 pixel dust  
-> What is your income? **20000**  
-> Income = 20000 pixel dust  
-> Tax = 13000 pixel dust  
-> What is your income? **exit**
+[input.txt](input.txt)  
+[output.txt](output.txt)
