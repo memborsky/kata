@@ -1,0 +1,7 @@
+> 10000
+Income = 10000 pixel dust  
+Tax = 3200 pixel dust  
+> 20000
+Income = 20000 pixel dust  
+Tax = 13000 pixel dust  
+> exit
